@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.Home {
+  background-image: linear-gradient(180deg, #a1b3fd 0%, #1b2653 100%);
+}
+
+.Home .Header {
+  text-align: center;
+  font-size: 24pt;
+  font-family: 'Press Start 2P', cursive;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5%;
+  margin: 0;
+}
+
+.Home .Footer {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3%;
+  height: 10vh;
+  font-size: 15pt;
+}
+
+.Home body {
+  font-family: 'Press Start 2P', cursive;
+  justify-content: space-between;
+  padding: 5%;
+  margin: 5%;
+  height: 100vh;
+}
