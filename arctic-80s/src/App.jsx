@@ -1,5 +1,6 @@
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Navbar from './components/Navbar'
 import './App.css'
 
 function App() {
@@ -8,6 +9,8 @@ function App() {
     <div className="Home">
 
       <Header />
+
+      <Navbar />
 
       <body>
         <h1>Arctic 80s</h1>
